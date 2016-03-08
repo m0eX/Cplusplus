@@ -5,7 +5,6 @@ using namespace std;
 //	ZVONIMIR PALAC
 void main()
 {
-
 	string text, copy;
 	bool Test = true;
 	cout << "Enter your text: ";
